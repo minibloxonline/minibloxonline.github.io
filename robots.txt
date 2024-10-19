@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-json/
+Disallow: /loader.php
+Disallow: /privacy-policy.html
+Disallow: /copyright.html
+Disallow: /terms-of-use.html
+Disallow: /contact-us.html
+
+Sitemap: https://killerbeangames.com/sitemap.xml
